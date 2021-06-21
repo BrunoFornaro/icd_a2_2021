@@ -25,6 +25,7 @@ Análise exploratória de dados, da [base de candidatos a vagas numa mineradora 
 - Pessoas mais velhas possuem mais experiência? 
 - Pessoas com mais experiência possuem preferência na contratação?
 
+Os nossos resultados estão no notebook ["a2_icd_2021.ipynb"](https://github.com/BrunoFornaro/icd_a2_2021/blob/main/a2_icd_2021.ipynb), assim como a base de dados está em "dados_candidatos.csv" (também pode ser vista no kaggle pelo link no tópico Objetivos).
 
 ## Conclusões
 Utilizando os dados à nossa disposição na base de dados utilizada, fizemos uma análise exploratória dos dados orientada pelas perguntas iniciais que foram elaboradas, levando em consideração as variáveis da base de dados, o contexto e a natureza dos dados. A partir disso, geramos diversos gráficos, majoritariamente em análises bidimensionais.
